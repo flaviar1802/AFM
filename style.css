@@ -15,3 +15,6 @@ body{
 h1{
     color: var(--cor-de-título);
 }
+header{
+    display: flex;
+}
