@@ -18,6 +18,6 @@ h1{
 header{
     display: flex;
 }
-img{
+.logo{
     width: 20%;
 }
