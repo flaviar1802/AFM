@@ -1,4 +1,13 @@
+:root{
+    --cor-de-fundo: #000000;
+    --cor-de-texto: #ffffff;
+    --cor-de-título: #daa520;
+}
+
+
+
 body{
-    background-color: black;
-    color: white;
+    background-color: var(--cor-de-fundo);
+    color:var(--cor-de-texto);
+    color: var(--cor-de-título);
 }
