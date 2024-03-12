@@ -18,3 +18,7 @@ h1{
 header{
     display: flex;
 }
+
+section{
+    display: flex;
+}
