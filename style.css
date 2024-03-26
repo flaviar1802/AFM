@@ -8,6 +8,12 @@
 /* chamando as variaveis */
 
 body{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 276;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
     background-color: var(--cor-de-fundo);
     color:var(--cor-de-texto);
 }
