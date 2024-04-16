@@ -48,6 +48,6 @@ section{
 }
 
 .final{
-    justify-content: end;
+    justify-content: right;
     align-items: center;
 }
