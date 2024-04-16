@@ -46,3 +46,7 @@ section{
 .fofoca{
     text-align: end;
 }
+
+.final{
+    justify-content: end;
+}
