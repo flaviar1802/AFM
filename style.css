@@ -55,3 +55,17 @@ section{
 .meninas{
     align-items: center;
 }
+
+.grupo{
+    align-items: center;
+    justify-content: right;
+
+}
+
+.bests{
+    text-align: center;
+    width: 69%;
+    padding: 0 43px;
+}
+
+
