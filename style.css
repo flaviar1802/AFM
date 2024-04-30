@@ -21,6 +21,10 @@ body{
 h1{
     color: var(--cor-de-título);
 }
+
+header a{
+    color: #ffffff;
+}
 header{
     display: grid;
     border: #daa520 solid;
