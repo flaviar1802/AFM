@@ -22,11 +22,16 @@ h1{
     color: var(--cor-de-título);
 }
 header{
-display: flex;
+    display: grid;
     border: #daa520 solid;
     border-width: 0 0 2px 0;
     align-items: center;
-    justify-content: space-evenly;
+    grid-template-columns: 80% 20%;
+    text-align: center;
+}
+.botoes{
+    display: flex;
+    justify-content: space-around;
 }
 
 section{
@@ -73,4 +78,7 @@ section{
 
 }
 
+footer{
+    text-align: center;
+}
 
