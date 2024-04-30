@@ -34,6 +34,11 @@ header{
     justify-content: space-around;
 }
 
+.titulo{
+    padding-left: 23.5%;
+
+}
+
 section{
     display: flex;
 }
